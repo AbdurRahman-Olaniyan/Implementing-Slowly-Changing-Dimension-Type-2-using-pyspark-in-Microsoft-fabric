@@ -63,7 +63,9 @@ EmpID,Name,Gender,JobTitle,Department,LoadDate
 22,Darian Keith,Female,BI Developer,Finance,NaT
 23,Deji Kelvin,Male,Data Analyst,IT,NaT
 24,Linda Musk,Female,Program Manager,HR,NaT
-5,Cristian Santos,Male,Data Analysis,IT,NaT
-25,Ling Lamb,Female,Data Analysis,IT,NaT
-26,Jude Jason,Male,Data Engineer,IT,NaT
-19,Lisa Jackson,Female,ML Engineer,HR,NaT
+5,Cristian Santos,Male,Data Analysis,HR,NaT
+25,Ling Lamb,Female,Data Analysis,HR,NaT
+26,Jude Jason,Male,Data Engineer,HR,NaT
+19,Lisa Jackson,Female,ML Engineer,Finance,NaT
+27,Peter Parker,Male,Product Designer,IT,NaT
+28,Peter Pan,Male,HR Manager,HR,NaT
