@@ -69,3 +69,10 @@ EmpID,Name,Gender,JobTitle,Department,LoadDate
 19,Lisa Jackson,Female,ML Engineer,Finance,NaT
 27,Peter Parker,Male,Product Designer,IT,NaT
 28,Peter Pan,Male,HR Manager,HR,NaT
+25,Ling Lamb,Female,Data Analysis,HR,NaT
+26,Jude Jason,Male,Data Engineer,HR,NaT
+19,Lisa Jackson,Female,ML Engineer,Finance,NaT
+27,Peter Parker,Male,Product Designer,IT,NaT
+28,Peter Pan,Male,HR Manager,HR,NaT
+18,Derek Zuniga,Male,Data Modeler,Modeling,NaT
+21,Gilmore Davis,Male,Product Manager,Management,NaT
